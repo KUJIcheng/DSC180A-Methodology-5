@@ -1,5 +1,3 @@
-# DSC180A Methodology Assignment 5
-
 **Name & UCSD Email**: Xuecheng Xu (xuxu@ucsd.edu)
 
 **Section and Mentor**: Section B04, Mentor Hao Zhang 
@@ -7,7 +5,7 @@
 ## Reflection Questions
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
-I believe the most interesting topic during the quarter is figure out how the Transformer learn from different kind of data. Mover, Trainning a LLMs model with mutiple GPU is cool.
+I believe the most interesting topic during the quarter is figure out how the Transformer learn from different kind of data. Moreover, Trainning a LLMs model with mutiple GPU is cool.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**  
 We are trying to create some scaffolding toolkits to help others better explore the various parameters of large language models and quickly understand the hardware resources required to train and reason about a model. In addition, we are also trying to make some extensions on training some large models, such as making language models perform better in specific fields.
